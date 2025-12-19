@@ -1,0 +1,1 @@
+This repository implements optimization algorithms for transforming two-qubit quantum states using local operations, with a focus on entanglement purification. The code demonstrates how to optimize local quantum channels to prepare target states and maximize fidelity 
