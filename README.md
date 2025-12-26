@@ -1,6 +1,3 @@
-This repository implements optimization algorithms for transforming two-qubit quantum states using local operations, with a focus on entanglement purification. The code demonstrates how to optimize local quantum channels to prepare target states and maximize fidelity 
-
-
 # Optimizing Quantum State Transformation Under Locality Constraint
 
 This repository contains a numerical framework for **deterministic and probabilistic bipartite quantum state transformations under locality constraints**, using **gradient-based optimization on a complex Stiefel manifold** to construct optimized local quantum channels.
