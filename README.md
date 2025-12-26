@@ -12,14 +12,8 @@ In this paper, we present a general numerical framework for both deterministic a
 
 ## Project Initialization
 
-### 1) Create and activate a virtual environment
 
-```bash
-python -m venv .venv
-source .venv/bin/activate   # macOS/Linux
-# .venv\Scripts\activate    # Windows (PowerShell)
-```
-### 2) Install dependencies
+###  Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
